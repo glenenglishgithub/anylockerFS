@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: H18-002.pcbdoc   30/04/2018  1:41:38 PM
+NCDrill File Report For: H18-002.pcbdoc   30/04/2018  7:39:53 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,11 +8,11 @@ ASCII Non-Plated RoundHoles File : H18-002-NonPlated.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             63        PTH        143.14mm (5.64inch)
+T1      0.3mm (12mil)                                             Round             64        PTH        161.61mm (6.36inch)
 T2      0.8mm (31mil)                                             Round             10        PTH        77.42mm (3.05inch)
 T3      0.5mm (20mil)                                             Round             10        NPTH       37.40mm (1.47inch)
 T4      3mm (118mil)                                              Round             2         NPTH       26.00mm (1.02inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              85
+Totals                                                                              86
 
 Total Processing Time (hh:mm:ss) : 00:00:00
