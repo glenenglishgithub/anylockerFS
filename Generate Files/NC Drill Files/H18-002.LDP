@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: F:\projects\ham\H18-002\hw\rev1\H18-002.pcbdoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=h18-002-plated.txt|DrillLayers=gtl,gp1,g1,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=h18-002-nonplated.txt|DrillLayers=gtl,gp1,g1,gbl

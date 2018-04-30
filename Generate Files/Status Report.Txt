@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [H18-002.PrjPcb]
+   Generated File[Bill of Materials-H18-002.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:41:42 PM On 30/04/2018

@@ -1,0 +1,371 @@
+*************************************************************
+FileName = H18-002.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : H18-002.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : P1
+      File : H18-002.GP1
+
+    Adding Layer      : P1
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D26
+    D27
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : L2
+      File : H18-002.G1
+
+    Adding Layer      : L2
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+    D28
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : H18-002.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D19
+    D20
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : H18-002.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D19
+    D20
+    D24
+    D26
+    D27
+    D28
+    D29
+    D30
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : H18-002.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D24
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : H18-002.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D22
+    D24
+    D26
+    D27
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : H18-002.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D26
+    D27
+    D29
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : H18-002.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D26
+    D27
+    D29
+    D45
+    D48
+    D49
+    D50
+    D56
+    D57
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : H18-002.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D19
+    D20
+    D24
+    D26
+    D27
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : H18-002.GM5
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+    D24
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 6
+      File : H18-002.GM6
+
+    Adding Layer      : Mechanical 6
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+    D24
+    D26
+    D27
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : H18-002.GD1
+
+    Adding Layer      : Mechanical 5
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D24
+    D26
+    D27
+    D68
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : H18-002.GG1
+
+    Adding Layer      : Mechanical 5
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D24
+    D26
+    D27
+    D68
+*************************************************************
+
