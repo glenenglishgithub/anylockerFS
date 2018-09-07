@@ -1,4 +1,5 @@
-# anylockerFS
+# anylockerFS THIS board has been superseeded with H18-004 see the project info for it
+
 reference locking for amateur radio communications devices
 
 Uses ADF4153/7 fractional N synthesiser to deal with very low highest-common-factors such as locking a FT-1000  10.485760 MHz to 10MHz.
